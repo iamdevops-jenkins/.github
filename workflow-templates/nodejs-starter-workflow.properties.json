@@ -1,7 +1,9 @@
 {
   "name" : "iamdevops organization workflow",
   "descriptions" : "iamdevops organization workflow tempplates",
+  "iconName": "logu-con",
   "categories": [
     "NPM COnfig"
   ]
+
 }
